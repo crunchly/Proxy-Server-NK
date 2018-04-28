@@ -1,0 +1,76 @@
+.chart-module {
+	max-width: 1000px;
+	margin: auto;
+}
+
+.team {
+	width: 1000px;
+	margin-top: 20px;
+	margin: auto;
+}
+
+#funding_rounds {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin: auto;
+}
+
+.component-container {
+	max-width: 1000px;
+	margin: auto;
+}
+
+.topnav {
+	height: 40px;
+	background: #0288d1;
+	color: white;
+	width: 1000 px;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+#products {
+	color: white;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#marketplace {
+	color: white;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#news {
+	color: white;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#about {
+	color: white;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#login {
+	color: white;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#register {
+	color: white;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
